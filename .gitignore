@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+<<<<<<< HEAD
 # Distribution / packaging
 .Python
 <<<<<<< HEAD
@@ -12,6 +13,11 @@ __pycache__/
 =======
 .idea/*
 >>>>>>> 07b27a6 (最新提交)
+=======
+
+# Distribution / packaging
+.Python
+>>>>>>> a3b26ba967bea8ef6a9e105de5f30e8740db77d2
 build/
 develop-eggs/
 dist/
